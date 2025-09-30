@@ -9,7 +9,7 @@ spring:
         git:
           uri: https://github.com/bboyarchix/Az.git # ruta del repositorio git
           searchPaths: config-data
-          default-label: circuitbreaker
+          default-label: main
   security:
     user:
       name: root
